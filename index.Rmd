@@ -3,7 +3,7 @@ title: "Weed ecologist with University of Copenhagen"
 subtitle: "Previous research relevant to this position"  
 author: 
   - "Maxwel Coura Oliveira"
-date: '02-08-2021'
+date: '02-09-2021'
 output:
   xaringan::moon_reader:
     css: [my-css.css, xaringan-themer.css]
@@ -111,6 +111,7 @@ background-size: contain
 .footnote[Image: Sophie Louisnard/Unsplash]
 
 ---
+exclude: true
 background-image: url(https://source.unsplash.com/CWbxnAk77so)
 background-position: left
 background-size: contain
@@ -154,7 +155,7 @@ background-size: contain
 .pull-right[
 ### Monitoring
 
-- EPSPs and PPO resistance in [Palmer amaranth](https://doi.org/10.1017/wet.2020.74)
+- EPSPs and PPO resistance in *Amaranthus palmeri* ([Palmer amaranth](https://doi.org/10.1017/wet.2020.74))
 
 <center>
 <img alt="A map of Nebraska with EPSPs and glyphosate resistance in *Amaranthus tuberculatus* (Palmer amaranth) accessions"  src="images/map.png" width="550px"/>
@@ -215,7 +216,7 @@ background-position: right
 background-size: contain
 
 
-## Weed Management
+## Integrated weed management
 
 - Herbicides
 
@@ -226,9 +227,6 @@ background-size: contain
 - Tillage
 
 - Flaming 📛
-
-
-
 
 
 ---
@@ -251,10 +249,26 @@ Paper and online-based survey with stakeholders
 
 - Crop and weed management in [Brazil](https://doi.org/10.1017/wet.2020.96)
 
-- Weed management in horticultural crops in Brazil
-
 .footnote[Image: Taylor Siebert/Unsplash]
 ]
+
+---
+background-image: url(images/field_day.png)
+background-position: right
+background-size: contain
+
+## Extension
+
+- Engage with stakeholders
+
+- On-farm research
+
+- Field days
+
+- Talks
+
+- Bulletins
+
 
 
 ---
@@ -305,7 +319,7 @@ background-size: contain
 - **Languages**: [`r icon_style(fontawesome("r-project"), style = "solid")`](https://www.r-project.org/),
 [<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>](https://www.latex-project.org/), [`r icon_style(fontawesome("css3"), style = "solid")`](https://www.w3.org/Style/CSS/Overview.en.html), [`r icon_style(fontawesome("html5"), style = "solid")`](https://www.w3schools.com/html/html_intro.asp), [`r icon_style(fontawesome("markdown"), style = "solid")`](https://www.markdownguide.org/)
 
-- Github `r icon_style(fontawesome("github"), style = "solid")`
+- GitHub `r icon_style(fontawesome("github"), style = "solid")`
 
 - Tidyverse [instructor](https://education.rstudio.com/trainers/people/oliveira+maxwel/)
 
